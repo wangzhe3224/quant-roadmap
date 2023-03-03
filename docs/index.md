@@ -64,3 +64,7 @@ Quantitative Analytics Development：主要开发量化分析工具。这类开�
 Backtesting and Optimization Development：主要开发回测和优化工具。这类开发需要掌握各种回测和优化技术，并能够将这些技术应用到交易策略的回测和优化中。开发的工具包括各种回测框架、优化算法库等。
 
 以上分类并不是绝对的，不同公司和机构可能有不同的分类方式，但这些分类可以帮助人们更好地理解Quant Dev的开发方向和领域。
+
+## 支持我的创作？
+
+![支持我](https://funcoder-assets.s3.ap-east-1.amazonaws.com/payme.png)
