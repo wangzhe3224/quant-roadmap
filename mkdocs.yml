@@ -3,7 +3,7 @@ site_author: FunCoder
 site_description: >-
    Quant路线图
 
-repo_name: zhuan-ma
+repo_name: quant-roadmap
 repo_url: https://github.com/wangzhe3224/quant-roadmap
 
 copyright: Copyright &copy; 2022-present <a href="https://github.com/wangzhe3224" target="_blank" rel="noopener noreferrer">FunCoder</a>
@@ -12,7 +12,7 @@ theme:
   logo: assets/logo.jpeg
   name: material
   language: zh
-  include_search_page: false
+  include_search_page: true
   search_index_only: true
   plugins:
     - meta
@@ -67,9 +67,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true 
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:materialx.emoji.twemoji
+  #     emoji_generator: !!python/name:materialx.emoji.to_svg
 
 plugins:
   - tags
