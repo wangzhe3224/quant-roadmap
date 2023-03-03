@@ -1,0 +1,102 @@
+site_name: Quant路线图
+site_author: FunCoder
+site_description: >-
+   Quant路线图
+
+repo_name: zhuan-ma
+repo_url: https://github.com/wangzhe3224/quant-roadmap
+
+copyright: Copyright &copy; 2022-present <a href="https://github.com/wangzhe3224" target="_blank" rel="noopener noreferrer">FunCoder</a>
+
+theme:
+  logo: assets/logo.jpeg
+  name: material
+  language: zh
+  include_search_page: false
+  search_index_only: true
+  plugins:
+    - meta
+  features:
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light blue
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: cyan
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  icon:
+    repo: fontawesome/brands/github
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+
+  custom_dir: overrides
+
+markdown_extensions:
+  - attr_list
+  - md_in_html 
+  - admonition
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - tags
+  # doc : https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/options/
+  - git-revision-date-localized:
+      custom_format: "%d. %B %Y"
+      timezone: Europe/Amsterdam
+      locale: en
+      fallback_to_build_date: false
+      enable_creation_date: true
+      exclude:
+          - index.md
+      enabled: true
+  
+extra:
+  analytics:
+    provider: google
+    property: G-RVGQNLW6XM
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/wangzhe3224 
+  generator: false
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - _js/pageview.js
+
+nav:
+  - 前言: "index.md"
