@@ -38,3 +38,9 @@ status: new
 [链接](https://www.kaggle.com/competitions/towardsai-x-whitebox-startup-challenge/overview)
 
 数据集包含了 212 只股票和ETF。
+
+## 400+ crypto currency pairs at 1-minute resolution
+
+400+ 加密货币 1 分钟蜡烛图历史数据。
+
+[链接](https://www.kaggle.com/datasets/tencars/392-crypto-currency-pairs-at-minute-resolution)
