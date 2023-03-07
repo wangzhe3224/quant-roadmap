@@ -80,10 +80,10 @@ plugins:
       custom_format: "%d. %B %Y"
       timezone: Europe/Amsterdam
       locale: en
-      fallback_to_build_date: false
+      fallback_to_build_date: true
       enable_creation_date: true
       exclude:
-          - index.md
+          - x.md
       enabled: true
   
 extra:
@@ -103,3 +103,5 @@ extra_javascript:
 
 nav:
   - 前言: "index.md"
+  - 资源: 
+    - 相关 Kaggle 竞赛和数据: "kaggle.md"
