@@ -2,6 +2,8 @@
 date: 2021-11-06
 categories: Career
 tags: [quant-dev, hedge-fund]
+comments: true
+status: new
 ---
 
 !!! note
