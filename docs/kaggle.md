@@ -23,7 +23,7 @@ status: new
 
 ## JPX Tokyo Stock Exchange Prediction
 
-![](2023-03-07-14-34-40.png)
+![](./assets/2023-03-07-14-34-40.png)
 
 [链接](https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction/data)
 
