@@ -5,6 +5,14 @@ status: new
 
 # 量化相关 Kaggle 竞赛和数据
 
+## G-Research Crypto Forecasting
+
+![20230330230327](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20230330230327.png)
+
+[链接](https://www.kaggle.com/competitions/g-research-crypto-forecasting/code)
+
+[数据下载](https://drive.google.com/file/d/1dC-Bru84QN1qppenuPXFFLO6tTqGWLml/view?usp=sharing)
+
 ## Jane Street Market Prediction
 
 ![](./assets/2023-03-07-14-00-03.png)
