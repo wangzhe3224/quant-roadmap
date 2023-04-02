@@ -15,8 +15,11 @@ status: new
         - 🔥 [loman - 动态计算图开发实战](https://github.com/janushendersonassetallocation/loman)
     - 💻 更多需求请在下方评论区给泛泛留言！
 
-??? note "⬇️⬇️⬇️ 加入泛泛的群聊 ⬇️⬇️⬇️"
-    <img src="https://funcoder-assets.s3.ap-east-1.amazonaws.com/wechat.jpg"  width="30%" height="15%">
+??? info "⬇⬇⬇⬇ 加入泛泛的群聊 ⬇⬇⬇⬇"
+    ️1群满了，请关注公众号，相关群和其他信息会在公众号推送
+
+    <img src="https://funcoder-assets.s3.ap-east-1.amazonaws.com/wechat.jpg"  width="30%" height="15%"> <img src="https://funcoder-assets.s3.ap-east-1.amazonaws.com/public_channel.JPG"  width="30%" height="15%">
+
 
 # Quant 修炼路线图
 
