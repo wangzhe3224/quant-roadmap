@@ -106,6 +106,7 @@ nav:
   - Quant Dev: 
     - 索引: "./quant-dev/index.md"
     - 量化基金程序员分类: "./quant-dev/category.md"
+    - 如何成为 Quant Dev - 技能树: "./quant-dev/quant-dev-skills.md"
   - Quant 入门: "research-intro.md"
   - 资源: 
     - 相关 Kaggle 竞赛和数据: "kaggle.md"
