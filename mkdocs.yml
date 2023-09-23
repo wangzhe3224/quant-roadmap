@@ -112,6 +112,7 @@ nav:
     - 如何成为 Quant Dev - 语言: "./quant-dev/quant-dev-language.md"
     - 如何成为 Quant Dev - 框架: "./quant-dev/quant-dev-framework.md"
     - 如何成为 Quant Dev - 数据库: "./quant-dev/quant-dev-db.md"
+    - Quant Dev - Pod: "./quant-dev/quant-dev-in-pod.md"
   - Quant 入门: "research-intro.md"
   - 资源: 
     - 相关 Kaggle 竞赛和数据: "kaggle.md"
